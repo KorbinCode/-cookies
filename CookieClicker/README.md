@@ -5,44 +5,44 @@ I love this game, though I think I play it differently from most people. Play it
 ## My mods
 
 A comprehensive list of the mods I have made for this game.
-
+g
 ### [Cookie Clicker Mod Manager](https://github.com/klattmose/CookieClickerModManager)
 
 A browser extension to manage and automatically load javascript mods and add-ons for this game.
 
-### [Cookie Clicker Script Extender](https://klattmose.github.io/CookieClicker/CCSE.js)
+### [Cookie Clicker Script Extender](https://korbincode.github.io/cookies/CookieClicker/CCSE.js)
 
-A modding framework that other mods can use to simplify the modding process. [Documentation](https://klattmose.github.io/CookieClicker/CCSE-POCs/)
+A modding framework that other mods can use to simplify the modding process. [Documentation](https://korbincode.github.io/cookies/CookieClicker/CCSE-POCs/)
 
-### [Fortune Cookie](https://klattmose.github.io/CookieClicker/FortuneCookie.js)
+### [Fortune Cookie](https://korbincode.github.io/cookies/CookieClicker/FortuneCookie.js)
 
 Predicts the outcomes of the Grimoire minigame spells.
 
-### [Klattmose Utilities](https://klattmose.github.io/CookieClicker/KlattmoseUtilities.js)
+### [Klattmose Utilities](https://korbincode.github.io/cookies/CookieClicker/KlattmoseUtilities.js)
 
 Create an unlimited amount of fully customizable hotkeys.
 
-### [Horticookie](https://klattmose.github.io/CookieClicker/Horticookie.js)
+### [Horticookie](https://korbincode.github.io/cookies/CookieClicker/Horticookie.js)
 
 A helper tool for the Garden minigame.
 
-### [Idle Trading](https://klattmose.github.io/CookieClicker/IdleTrading.js)
+### [Idle Trading](https://korbincode.github.io/cookies/CookieClicker/IdleTrading.js)
 
 A helper tool for the Market minigame.
 
-### [Casino](https://klattmose.github.io/CookieClicker/minigameCasino.js)
+### [Casino](https://korbincode.github.io/cookies/CookieClicker/minigameCasino.js)
 
 Adds a minigame to the Chancemaker building where you can play blackjack and bet cookies.
 
-### [American Season](https://klattmose.github.io/CookieClicker/AmericanSeason.js)
+### [American Season](https://korbincode.github.io/cookies/CookieClicker/AmericanSeason.js)
 
 Adds a firework themed season to the game.
 
-### [Timer Widget](https://klattmose.github.io/CookieClicker/CCSE-POCs/TimerWidget.js)
+### [Timer Widget](https://korbincode.github.io/cookies/CookieClicker/CCSE-POCs/TimerWidget.js)
 
 Adds a special object in the lower left (near Krumblor and Santa) that displays a countdown for buffs and shimmers.
 
-### [Hurricane Sugar](https://klattmose.github.io/CookieClicker/CCSE-POCs/HurricaneSugar.js)
+### [Hurricane Sugar](https://korbincode.github.io/cookies/CookieClicker/CCSE-POCs/HurricaneSugar.js)
 
 Adds a Golden Cookie effect that briefly shortens the time for sugar lumps to ripen to 1 second.
 
