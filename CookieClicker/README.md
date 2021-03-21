@@ -4,8 +4,8 @@ I love this game, though I think I play it differently from most people. Play it
 
 ## My mods
 
-A comprehensive list of the mods I have made for this game.
-g
+A comprehensive list of mods I have ~~rudely stolen from klatty and darky~~ ~~made~~ slightly edited for this game.
+
 ### [Cookie Clicker Mod Manager](https://github.com/klattmose/CookieClickerModManager)
 
 A browser extension to manage and automatically load javascript mods and add-ons for this game.
