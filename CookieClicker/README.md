@@ -46,7 +46,7 @@ Adds a special object in the lower left (near Krumblor and Santa) that displays 
 
 Adds a Golden Cookie effect that briefly shortens the time for sugar lumps to ripen to 1 second.
 
-### [Black Hole Inverter](https://klattmose.github.io/CookieClicker/CCSE-POCs/BlackholeInverter.js)
+### [Black Hole Inverter](https://korbincode.github.io/cookies/CookieClicker/CCSE-POCs/BlackholeInverter.js)
 
 Adds a new building and an appropriate amount of upgrades and achievments.
 
