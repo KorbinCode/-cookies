@@ -34,6 +34,10 @@ A helper tool for the Market minigame.
 
 Adds a minigame to the Chancemaker building where you can play blackjack and bet cookies.
 
+### [Achievement Pack](https://raw.githubusercontent.com/KorbinCode/cookies/master/CookieClicker/achievementPackage.js)
+
+colossal shoutouts to darky, darkys cool.
+
 ### [American Season](https://korbincode.github.io/cookies/CookieClicker/AmericanSeason.js)
 
 Adds a firework themed season to the game.
@@ -72,3 +76,6 @@ Just some files I'm backing up here
 ### [CCSEsave.txt](https://klattmose.github.io/CookieClicker/CCSEsave.txt)
 ### [KU config.js](https://klattmose.github.io/CookieClicker/KU%20config.js)
 ### [CCMMconfig.txt](https://klattmose.github.io/CookieClicker/CCMMconfig.txt)
+
+pls no blam
+r8 5
