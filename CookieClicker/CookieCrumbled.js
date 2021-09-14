@@ -7,6 +7,7 @@ CookieCrumbled.modURL = 'https://klattmose.github.io/CookieClicker/CookieCrumble
 
 CookieCrumbled.launch = function(){
 	CookieCrumbled.init = function(){
+		Game.CustomGrandmaNames = ['frick']
 		CookieCrumbled.isLoaded = 1;
 		CookieCrumbled.uninstalled = false;
 		
