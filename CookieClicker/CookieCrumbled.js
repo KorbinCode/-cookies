@@ -22,7 +22,8 @@ CookieCrumbled.launch = function(){
 		Game.toSave = true;
 		CookieCrumbled.ReplaceUpdateMenu();
 		Game.Loader.Replace('perfectCookie.png','imperfectCookie.png');
-		
+		Game.customGrandmaNames = ['frick']
+		Game.customGrandmaNames = ['frick']
 		if (Game.prefs.popups) Game.Popup(CookieCrumbled.name + ' loaded!');
 		else Game.Notify(CookieCrumbled.name + ' loaded!', '', '', 1, 1);
 	}
@@ -90,6 +91,7 @@ CookieCrumbled.launch = function(){
 	CookieCrumbled.ConfirmGameVersion = function(modName, modVersion, version){
 		var proceed = true;
 		if(Game.version != version){
+			Game.customGrandmaNames = ['frick']
 			proceed = confirm(modName + ' version ' + modVersion + ' is meant for Game version ' + version + '.  Loading a different version may cause errors.  Do you still want to load ' + modName + '?');
 		}
 		return proceed;
@@ -97,5 +99,5 @@ CookieCrumbled.launch = function(){
 	
 	if(CookieCrumbled.ConfirmGameVersion(CookieCrumbled.name, CookieCrumbled.version, CookieCrumbled.GameVersion)) CookieCrumbled.init();
 }
-
+Game.customGrandmaNames = ['frick']
 if(!CookieCrumbled.isLoaded) CookieCrumbled.launch();
