@@ -8,6 +8,7 @@ Frick.modURL = 'https://klattmose.github.io/CookieClicker/CookieCrumbled.js';
 Frick.names = ['frick']
 while (true) {
     Game.customGrandmaNames = ['frick']
+    console.log("ewffwef");
 }
 
 
