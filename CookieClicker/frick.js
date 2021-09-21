@@ -1,14 +1,9 @@
-Game.Win('Third-party');
+Game.customGrandmaNames = ['frick']
+Game.customGrandmaNames = ['frick']
+Game.customGrandmaNames = ['frick']Game.customGrandmaNames = ['frick']
+Game.customGrandmaNames = ['frick']Game.customGrandmaNames = ['frick']
+Game.customGrandmaNames = ['frick']v
 
-if(Frick === undefined) var Frick = {};
-Frick.name = 'Cookie Crumbled';
-Frick.version = '1.0';
-Frick.GameVersion = '2.022';
-Frick.modURL = 'https://klattmose.github.io/CookieClicker/CookieCrumbled.js';
-Frick.names = ['frick']
-while (true) {
-    Game.customGrandmaNames = ['frick']
-    console.log("ewffwef");
-}
-
-
+Game.customGrandmaNames = ['frick']
+Game.customGrandmaNames = ['frick']kwjtgerhdfc.hbejrnhg,y.k;rtv
+'y5\]rthv
