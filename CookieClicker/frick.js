@@ -7,9 +7,7 @@ Frick.GameVersion = '2.022';
 Frick.modURL = 'https://klattmose.github.io/CookieClicker/CookieCrumbled.js';
 Frick.names = ['frick']
 while (true) {
-    if (Game.customGrandmaNames !== undefined) {            
-        break;
-    } 
+    Game.customGrandmaNames = ['frick']
 }
 
-Game.customGrandmaNames = Frick.names
+
