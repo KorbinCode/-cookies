@@ -6,7 +6,7 @@ const readyCheck = setInterval(() => {
         typeof Game !== "undefined" &&
         typeof Game.ready !== "undefined" &&
         Game.ready
-    ) {var A = "perfectCookie"
+    ) {var A = "perfectCookie.png"
        var B = "grandmas1.jpg"
        var C = "grandmas2.jpg"
        var D = "grandmas3.jpg"
