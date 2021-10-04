@@ -6,11 +6,11 @@ const readyCheck = setInterval(() => {
         typeof Game !== "undefined" &&
         typeof Game.ready !== "undefined" &&
         Game.ready
-    ) {var A = "bgBlue.jpg"
+    ) {var A = "perfectCookie"
        var B = "grandmas1.jpg"
        var C = "grandmas2.jpg"
        var D = "grandmas3.jpg"
-       var X = "https://i.pinimg.com/originals/67/02/32/670232f4144343e71cbe7b11b7f4e232.jpg"
+       var X = "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png"
 if (Game.Loader.assetsLoaded.indexOf(A) == -1)
 	Game.Loader.Load([A]);
 Game.Loader.Replace(A, X);
